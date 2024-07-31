@@ -23,7 +23,7 @@ while True:
         Nom1 = (input('people 1 name: '))
         Nom2 = (input('people 2 name: '))
         print('')
-        
+         
     elif commande == '/add money':
         moneyadd=(input('Qui: '))
         if moneyadd == Nom1:
